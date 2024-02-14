@@ -17,7 +17,8 @@ FarmAssist: A Web Application for Crop Yield Prediction, Crop and Fertilizer Rec
 
 ![image](https://github.com/bharukahimanshu/FarmAssist/assets/84191694/66b95d7f-bb48-4303-a30a-cf80dd5ca129)
 
-![Uploading image.png…]()
+![image](https://github.com/bharukahimanshu/FarmAssist/assets/84191694/e372410a-feed-44d8-b042-524ff0666f82)
+
 
 
 ![image](https://github.com/bharukahimanshu/FarmAssist/assets/84191694/ff20b5a3-69f4-4678-b784-b84763ea4007)
