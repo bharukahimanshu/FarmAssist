@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>QuickCrop Routes</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 20px;
+        overflow: hidden;
+      }
+
+      h1 {
+        color: #333;
+        text-align: center;
+      }
+
+      ul {
+        list-style-type: none;
+        padding: 0;
+        margin: 20px 0;
+      }
+
+      li {
+        margin-bottom: 10px;
+      }
+
+      a {
+        color: #007bff;
+        text-decoration: none;
+        transition: color 0.3s;
+      }
+
+      a:hover {
+        color: #0056b3;
+      }
+
+      .routes-container {
+        background-color: #f7f7f7;
+        border-radius: 10px;
+        padding: 0px 80px;
+      }
+
+      .route-name {
+        color: #007bff;
+        font-weight: bold;
+      }
+
+      .route-info {
+        color: #666;
+      }
+
+      .server-info {
+        margin-top: 50px;
+        text-align: center;
+        font-style: italic;
+        color: #888;
+      }
+
+      .frontend-info {
+        margin-top: 20px;
+        text-align: center;
+        font-style: italic;
+        color: #888;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>QuickCrop Routes</h1>
+
+    <div class="routes-container">
+      <h2>Routes</h2>
+      <ul>
+        <li><span class="route-name">GET /</span> - Home page</li>
+        <li>
+          <span class="route-name">POST /crop-predict</span> - Perform crop
+          prediction
+        </li>
+        <li>
+          <span class="route-name">POST /crop-predict-temp</span> - Predict crop
+          based on temperature
+        </li>
+        <li>
+          <span class="route-name">POST /crop-predict-humid</span> - Predict
+          crop based on humidity
+        </li>
+        <li>
+          <span class="route-name">POST /crop-predict-rain</span> - Predict crop
+          based on rainfall
+        </li>
+        <li>
+          <span class="route-name">POST /crop-yield-predict</span> - Perform
+          crop yield prediction
+        </li>
+        <li>
+          <span class="route-name">POST /fertilizer-predict</span> - Perform
+          fertilizer prediction
+        </li>
+        <li>
+          <span class="route-name">POST /send-result</span> - Send prediction
+          result
+        </li>
+        <li>
+          <span class="route-name">POST /send-newsletter</span> - Send
+          newsletter to subscribers
+        </li>
+        <li><span class="route-name">GET /blogs</span> - Get all blogs</li>
+        <li><span class="route-name">POST /add-blog</span> - Add a blog</li>
+        <li><span class="route-name">GET /news</span> - Get the news</li>
+        <li><span class="route-name">POST /send-message</span> - Send OTP</li>
+        <li>
+          <span class="route-name">POST /check-subscription</span> - Check
+          subscription status
+        </li>
+        <li>
+          <span class="route-name">POST /subscribe</span> - Subscribe to the
+          newsletter
+        </li>
+        <li>
+          <span class="route-name">POST /unsubscribe</span> - Unsubscribe from
+          the newsletter
+        </li>
+      </ul>
+    </div>
+
+    <p class="server-info">
+      This page is served by the QuickCrop Flask server.
+    </p>
+    <p class="frontend-info">
+      The frontend is hosted at
+      <a href="https://quickcrop.netlify.app/">https://quickcrop.netlify.app/</a
+      >.
+    </p>
+  </body>
+</html>

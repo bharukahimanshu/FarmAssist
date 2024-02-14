@@ -1,0 +1,29 @@
+.charts {
+  border: 1px solid black;
+  padding: 10px;
+  margin: 10px auto;
+  width: 600px;
+  height: 400px;
+  background-color: white;
+  border-radius: 10px;
+}
+.charts1 {
+  border: 1px solid black;
+  padding: 10px;
+  margin: 20px auto;
+  width: 90%;
+  height: 350px;
+  background-color: white;
+  border-radius: 10px;
+}
+/* write media query set width and height to 350px */
+@media screen and (max-width: 600px) {
+  .charts {
+    width: 350px;
+    height: 350px;
+  }
+  .charts1 {
+    width: 350px;
+    height: 350px;
+  }
+}

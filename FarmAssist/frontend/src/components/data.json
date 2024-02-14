@@ -1,0 +1,420 @@
+{
+  "Apple": {
+    "Description": "A round fruit with a red, yellow or green skin and a white flesh inside.",
+    "Season": {
+      "Sowing": "July-August",
+      "Harvesting": "September-October"
+    },
+    "Ideal Conditions": {
+      "Soil Type": "Well-drained loamy soil",
+      "Climate": "Cool climate with moderate to high humidity",
+      "Temperature": "15-30°C",
+      "Rainfall": "800-1000 mm"
+    },
+    "Nutrient Requirements": {
+      "Nitrogen": "250-300 kg/ha",
+      "Phosphorus": "100-150 kg/ha",
+      "Potassium": "200-250 kg/ha"
+    },
+    "Helpful Tips": "Prune apple trees regularly to maintain their shape and increase yield."
+  },
+  "Banana": {
+    "Description": "A long curved fruit with a yellow skin and a soft, sweet flesh inside.",
+    "Season": {
+      "Sowing": "Year-round",
+      "Harvesting": "10-15 months after planting"
+    },
+    "Ideal Conditions": {
+      "Soil Type": "Well-drained sandy loam soil",
+      "Climate": "Tropical or subtropical climate",
+      "Temperature": "25-30°C",
+      "Rainfall": "1000-1500 mm"
+    },
+    "Nutrient Requirements": {
+      "Nitrogen": "100-150 kg/ha",
+      "Phosphorus": "100-150 kg/ha",
+      "Potassium": "200-300 kg/ha"
+    },
+    "Helpful Tips": "Bananas need regular watering and protection from strong winds."
+  },
+  "Black Gram": {
+    "Description": "A small, black bean commonly used in Indian cuisine.",
+    "Season": {
+      "Sowing": "June-July",
+      "Harvesting": "October-November"
+    },
+    "Ideal Conditions": {
+      "Soil Type": "Sandy loam or clay loam soil",
+      "Climate": "Tropical or subtropical climate",
+      "Temperature": "25-35°C",
+      "Rainfall": "600-800 mm"
+    },
+    "Nutrient Requirements": {
+      "Nitrogen": "20-30 kg/ha",
+      "Phosphorus": "20-30 kg/ha",
+      "Potassium": "20-30 kg/ha"
+    },
+    "Helpful Tips": "Black gram plants are susceptible to waterlogging, so ensure good drainage in the field."
+  },
+  "Chickpea": {
+    "Description": "A small, round legume commonly used in Indian cuisine.",
+    "Season": {
+      "Sowing": "October-November",
+      "Harvesting": "February-March"
+    },
+    "Ideal Conditions": {
+      "Soil Type": "Well-drained loamy soil",
+      "Climate": "Cool and dry climate",
+      "Temperature": "18-25°C",
+      "Rainfall": "400-500 mm"
+    },
+    "Nutrient Requirements": {
+      "Nitrogen": "20-30 kg/ha",
+      "Phosphorus": "40-50 kg/ha",
+      "Potassium": "20-30 kg/ha"
+    },
+    "Helpful Tips": "Chickpea plants require good weed control to prevent yield losses."
+  },
+  "Coconut": {
+    "Description": "A large, brown fruit with a hard shell and white, edible flesh inside.",
+    "Season": {
+      "Sowing": "Year-round",
+      "Harvesting": "5-6 years after planting"
+    },
+    "Ideal Conditions": {
+      "Soil Type": "Sandy loam or lateritic soil",
+      "Climate": "Tropical or subtropical climate",
+      "Temperature": "20-30°C",
+      "Rainfall": "1500-2500 mm"
+    },
+    "Nutrient Requirements": {
+      "Nitrogen": "2-2.5 kg/palm/year",
+      "Phosphorus": "1-1.5 kg/palm/year",
+      "Potassium": "3-3.5 kg/palm/year"
+    },
+    "Helpful Tips": "Coconut palms require regular irrigation and weed control, and benefit from regular fertilization."
+  },
+  "Coffee": {
+    "Description": "A small, dark bean used to make a popular drink.",
+    "Season": {
+      "Sowing": "May-June",
+      "Harvesting": "December-January"
+    },
+    "Ideal Conditions": {
+      "Soil Type": "Well-drained loamy soil",
+      "Climate": "Tropical or subtropical climate",
+      "Temperature": "20-30°C",
+      "Rainfall": "1500-2000 mm"
+    },
+    "Nutrient Requirements": {
+      "Nitrogen": "80-100 kg/ha",
+      "Phosphorus": "40-50 kg/ha",
+      "Potassium": "60-80 kg/ha"
+    },
+    "Helpful Tips": "Coffee plants require regular pruning to maintain yield and quality."
+  },
+  "Cotton": {
+    "Description": "A soft, fluffy fiber used to make clothing and textiles.",
+    "Season": {
+      "Sowing": "June-July",
+      "Harvesting": "October-November"
+    },
+    "Ideal Conditions": {
+      "Soil Type": "Well-drained loamy soil",
+      "Climate": "Tropical or subtropical climate",
+      "Temperature": "20-30°C",
+      "Rainfall": "600-800 mm"
+    },
+    "Nutrient Requirements": {
+      "Nitrogen": "80-100 kg/ha",
+      "Phosphorus": "40-50 kg/ha",
+      "Potassium": "40-60 kg/ha"
+    },
+    "Helpful Tips": "Cotton plants are susceptible to pests and diseases, so regular monitoring and control measures are recommended."
+  },
+  "Grapes": {
+    "Description": "A small, round fruit used to make wine and eaten as a snack.",
+    "Season": {
+      "Sowing": "June-July",
+      "Harvesting": "December-January"
+    },
+    "Ideal Conditions": {
+      "Soil Type": "Well-drained loamy soil",
+      "Climate": "Subtropical or temperate climate",
+      "Temperature": "15-30°C",
+      "Rainfall": "500-600 mm"
+    },
+    "Nutrient Requirements": {
+      "Nitrogen": "60-80 kg/ha",
+      "Phosphorus": "40-50 kg/ha",
+      "Potassium": "100-120 kg/ha"
+    },
+    "Helpful Tips": "Grape vines require regular pruning to maintain yield and quality."
+  },
+  "Jute": {
+    "Description": "A long, fibrous plant used to make textiles and rope.",
+    "Season": {
+      "Sowing": "March-April",
+      "Harvesting": "August-September"
+    },
+    "Ideal Conditions": {
+      "Soil Type": "Alluvial soil",
+      "Climate": "Tropical or subtropical climate",
+      "Temperature": "20-40°C",
+      "Rainfall": "1500-2000 mm"
+    },
+    "Nutrient Requirements": {
+      "Nitrogen": "40-60 kg/ha",
+      "Phosphorus": "20-25 kg/ha",
+      "Potassium": "40-60 kg/ha"
+    },
+    "Helpful Tips": "Jute plants require regular irrigation and weed control, and benefit from regular fertilization."
+  },
+  "Kidney Beans": {
+    "Description": "A small, kidney-shaped bean used in a variety of dishes.",
+    "Season": {
+      "Sowing": "June-July",
+      "Harvesting": "October-November"
+    },
+    "Ideal Conditions": {
+      "Soil Type": "Well-drained loamy soil",
+      "Climate": "Tropical or subtropical climate",
+      "Temperature": "20-30°C",
+      "Rainfall": "800-1000 mm"
+    },
+    "Nutrient Requirements": {
+      "Nitrogen": "30-40 kg/ha",
+      "Phosphorus": "30-40 kg/ha",
+      "Potassium": "20-30 kg/ha"
+    },
+    "Helpful Tips": "Kidney beans are susceptible to pests and diseases, so regular monitoring and control measures are recommended."
+  },
+  "Lentil": {
+    "Description": "A small, lens-shaped pulse used in a variety of dishes.",
+    "Season": {
+      "Sowing": "October-November",
+      "Harvesting": "February-March"
+    },
+    "Ideal Conditions": {
+      "Soil Type": "Well-drained loamy soil",
+      "Climate": "Cool and dry climate",
+      "Temperature": "15-25°C",
+      "Rainfall": "350-450 mm"
+    },
+    "Nutrient Requirements": {
+      "Nitrogen": "20-30 kg/ha",
+      "Phosphorus": "30-40 kg/ha",
+      "Potassium": "20-30 kg/ha"
+    },
+    "Helpful Tips": "Lentils require well-drained soil and moderate moisture."
+  },
+  "Maize": {
+    "Description": "A tall cereal plant with yellow or white kernels used as food for humans and animals.",
+    "Season": {
+      "Sowing": "June-July",
+      "Harvesting": "October-November"
+    },
+    "Ideal Conditions": {
+      "Soil Type": "Well-drained loamy soil",
+      "Climate": "Tropical or subtropical climate",
+      "Temperature": "20-30°C",
+      "Rainfall": "600-800 mm"
+    },
+    "Nutrient Requirements": {
+      "Nitrogen": "80-100 kg/ha",
+      "Phosphorus": "40-50 kg/ha",
+      "Potassium": "40-60 kg/ha"
+    },
+    "Helpful Tips": "Maize plants are susceptible to pests and diseases, so regular monitoring and control measures are recommended."
+  },
+  "Mango": {
+    "Description": "A sweet, juicy fruit with a large seed in the center.",
+    "Season": {
+      "Sowing": "June-July",
+      "Harvesting": "April-June"
+    },
+    "Ideal Conditions": {
+      "Soil Type": "Well-drained loamy soil",
+      "Climate": "Tropical or subtropical climate",
+      "Temperature": "24-27°C",
+      "Rainfall": "1000-2000 mm"
+    },
+    "Nutrient Requirements": {
+      "Nitrogen": "500-600 g/tree/year",
+      "Phosphorus": "200-300 g/tree/year",
+      "Potassium": "500-600 g/tree/year"
+    },
+    "Helpful Tips": "Mango trees require regular irrigation and pruning, and benefit from fertilization during the growing season."
+  },
+  "Moth Beans": {
+    "Description": "A small, brownish pulse used in a variety of dishes.",
+    "Season": {
+      "Sowing": "June-July",
+      "Harvesting": "September-October"
+    },
+    "Ideal Conditions": {
+      "Soil Type": "Well-drained sandy loam soil",
+      "Climate": "Tropical or subtropical climate",
+      "Temperature": "25-30°C",
+      "Rainfall": "400-600 mm"
+    },
+    "Nutrient Requirements": {
+      "Nitrogen": "30-40 kg/ha",
+      "Phosphorus": "30-40 kg/ha",
+      "Potassium": "20-30 kg/ha"
+    },
+    "Helpful Tips": "Moth beans are drought-tolerant and do not require heavy irrigation."
+  },
+  "Mung Bean": {
+    "Description": "A small, green pulse used in a variety of dishes.",
+    "Season": {
+      "Sowing": "June-July",
+      "Harvesting": "October-November"
+    },
+    "Ideal Conditions": {
+      "Soil Type": "Well-drained loamy soil",
+      "Climate": "Tropical or subtropical climate",
+      "Temperature": "25-30°C",
+      "Rainfall": "600-800 mm"
+    },
+    "Nutrient Requirements": {
+      "Nitrogen": "30-40 kg/ha",
+      "Phosphorus": "30-40 kg/ha",
+      "Potassium": "20-30 kg/ha"
+    },
+    "Helpful Tips": "Mung beans require moderate irrigation and are susceptible to pests and diseases, so regular monitoring and control measures are recommended."
+  },
+  "Musk Melon": {
+    "Description": "A sweet, juicy fruit with a rough, netted skin.",
+    "Season": {
+      "Sowing": "March-April",
+      "Harvesting": "June-July"
+    },
+    "Ideal Conditions": {
+      "Soil Type": "Well-drained sandy loam soil",
+      "Climate": "Warm and dry climate",
+      "Temperature": "25-30°C",
+      "Rainfall": "500-600 mm"
+    },
+    "Nutrient Requirements": {
+      "Nitrogen": "60-80 kg/ha",
+      "Phosphorus": "40-50 kg/ha",
+      "Potassium": "80-100 kg/ha"
+    },
+    "Helpful Tips": "Musk melons require warm temperatures and moderate irrigation, and benefit from regular fertilization."
+  },
+  "Orange": {
+    "Description": "A round, citrus fruit with a thick, orange skin.",
+    "Season": {
+      "Sowing": "June-July",
+      "Harvesting": "October-February"
+    },
+    "Ideal Conditions": {
+      "Soil Type": "Well-drained loamy soil",
+      "Climate": "Tropical or subtropical climate",
+      "Temperature": "15-38°C",
+      "Rainfall": "750-1250 mm"
+    },
+    "Nutrient Requirements": {
+      "Nitrogen": "200-250 g/tree/year",
+      "Phosphorus": "100-125 g/tree/year",
+      "Potassium": "300-375 g/tree/year"
+    },
+    "Helpful Tips": "Oranges require regular pruning and fertilization, and benefit from irrigation during dry periods."
+  },
+  "Papaya": {
+    "Description": "A sweet, tropical fruit with a soft, orange flesh.",
+    "Season": {
+      "Sowing": "June-July",
+      "Harvesting": "October-January"
+    },
+    "Ideal Conditions": {
+      "Soil Type": "Well-drained loamy soil",
+      "Climate": "Tropical or subtropical climate",
+      "Temperature": "20-33°C",
+      "Rainfall": "1200-2000 mm"
+    },
+    "Nutrient Requirements": {
+      "Nitrogen": "600-800 g/tree/year",
+      "Phosphorus": "200-300 g/tree/year",
+      "Potassium": "600-800 g/tree/year"
+    },
+    "Helpful Tips": "Papayas require regular irrigation and fertilization, and benefit from mulching to conserve soil moisture."
+  },
+  "Pigeon Pea": {
+    "Description": "A yellow or green pulse used in a variety of dishes.",
+    "Season": {
+      "Sowing": "June-July",
+      "Harvesting": "October-November"
+    },
+    "Ideal Conditions": {
+      "Soil Type": "Well-drained loamy soil",
+      "Climate": "Tropical or subtropical climate",
+      "Temperature": "25-30°C",
+      "Rainfall": "500-600 mm"
+    },
+    "Nutrient Requirements": {
+      "Nitrogen": "30-40 kg/ha",
+      "Phosphorus": "30-40 kg/ha",
+      "Potassium": "20-30 kg/ha"
+    },
+    "Helpful Tips": "Pigeon peas are drought-tolerant and do not require heavy irrigation."
+  },
+  "Pomegranate": {
+    "Description": "A round, red fruit with a tough, leathery skin and juicy seeds.",
+    "Season": {
+      "Sowing": "June-July",
+      "Harvesting": "October-November"
+    },
+    "Ideal Conditions": {
+      "Soil Type": "Well-drained sandy loam soil",
+      "Climate": "Tropical or subtropical climate",
+      "Temperature": "25-35°C",
+      "Rainfall": "500-600 mm"
+    },
+    "Nutrient Requirements": {
+      "Nitrogen": "500-600 g/tree/year",
+      "Phosphorus": "200-300 g/tree/year",
+      "Potassium": "500-600 g/tree/year"
+    },
+    "Helpful Tips": "Pomegranates require regular pruning and fertilization, and benefit from irrigation during dry periods."
+  },
+  "Rice": {
+    "Description": "A staple food crop grown in flooded fields.",
+    "Season": {
+      "Sowing": "June-July",
+      "Harvesting": "November-December"
+    },
+    "Ideal Conditions": {
+      "Soil Type": "Loamy soil with good water-holding capacity",
+      "Climate": "Tropical or subtropical climate",
+      "Temperature": "20-35°C",
+      "Rainfall": "1200-2000 mm"
+    },
+    "Nutrient Requirements": {
+      "Nitrogen": "80-120 kg/ha",
+      "Phosphorus": "40-60 kg/ha",
+      "Potassium": "40-60 kg/ha"
+    },
+    "Helpful Tips": "Rice requires a lot of water, so it is important to maintain flooded fields during the growing season."
+  },
+  "Watermelon": {
+    "Description": "A juicy, sweet fruit with a green rind and pink or red flesh.",
+    "Season": {
+      "Sowing": "February-March",
+      "Harvesting": "May-June"
+    },
+    "Ideal Conditions": {
+      "Soil Type": "Well-drained sandy loam soil",
+      "Climate": "Tropical or subtropical climate",
+      "Temperature": "20-30°C",
+      "Rainfall": "600-800 mm"
+    },
+    "Nutrient Requirements": {
+      "Nitrogen": "200-250 kg/ha",
+      "Phosphorus": "100-125 kg/ha",
+      "Potassium": "200-250 kg/ha"
+    },
+    "Helpful Tips": "Watermelons require a lot of space and warm soil, and benefit from regular irrigation and fertilization."
+  }
+}

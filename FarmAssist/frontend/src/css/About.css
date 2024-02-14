@@ -1,0 +1,99 @@
+.about-section h1 {
+  font-size: 50px;
+  margin-bottom: 30px;
+  font-weight: 700;
+}
+
+.about-section p {
+  font-size: 18px;
+  line-height: 1.8;
+  margin-bottom: 30px;
+}
+
+.about-image {
+  border-radius: 50px;
+}
+
+.mission-section {
+  padding: 10px 0;
+}
+
+.mission-section h2 {
+  font-size: 40px;
+  margin-bottom: 30px;
+  font-weight: 700;
+}
+
+.mission-section p {
+  font-size: 18px;
+  line-height: 1.8;
+  margin-bottom: 30px;
+}
+.mission-image {
+  border-radius: 50px;
+  height: 500px;
+}
+
+.team-section {
+  padding: 10px 0;
+}
+
+.team-section h2 {
+  font-size: 40px;
+  margin-bottom: 50px;
+  font-weight: 700;
+}
+
+.team-member {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.team-member img {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center;
+  margin-top: -20px;
+}
+
+.team-member h3 {
+  font-size: 24px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.team-member p {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.service {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.service img {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.service h3 {
+  font-size: 24px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.service p {
+  font-size: 18px;
+  font-weight: 500;
+}
+@media screen and (max-width: 768px) {
+  .about-image {
+    display: none;
+  }
+}

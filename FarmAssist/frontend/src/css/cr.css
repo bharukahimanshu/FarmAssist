@@ -1,0 +1,126 @@
+.cr {
+  width: 35%;
+  margin: 0px auto;
+  border-radius: 10px;
+  padding: 20px 25px;
+  margin-top: 100px;
+  margin-bottom: 150px;
+  background-color: #fff;
+  color: black;
+}
+label {
+  font-size: 17px;
+  margin-top: 3px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+.crinput {
+  width: 80%;
+}
+
+select {
+  font-weight: bold;
+  color: black;
+}
+.units {
+  width: 15%;
+}
+.fert {
+  margin-bottom: 200px;
+}
+.crbtn {
+  background-color: #565e64;
+  color: #fff;
+  margin-top: 20px;
+  font-weight: bold;
+  width: 130px;
+  height: 50px;
+  border-radius: 12px;
+  border-color: #565e64;
+  font-size: 21px;
+  margin-right: 10px;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.img {
+  width: 350px;
+  height: 350px;
+  border-radius: 25px;
+  margin: 10px auto;
+  margin-left: 30px;
+}
+#crdiv {
+  margin-left: 25px;
+}
+.para {
+  font-size: 18pt;
+  margin-bottom: 5px;
+}
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: stretch;
+  align-content: center;
+}
+
+.flex-items:nth-child(1) {
+  display: block;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  align-self: auto;
+  order: 0;
+}
+
+.flex-items:nth-child(2) {
+  display: block;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  align-self: auto;
+  order: 0;
+}
+
+@media screen and (max-width: 600px) {
+  .cr {
+    width: 80%;
+  }
+  #img {
+    width: 70%;
+    position: relative;
+    margin: 0px auto;
+    margin-top: 10px;
+  }
+  .flex-container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: stretch;
+    align-content: center;
+  }
+
+  .flex-items:nth-child(1) {
+    display: block;
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: auto;
+    align-self: auto;
+    order: 0;
+  }
+
+  .flex-items:nth-child(2) {
+    display: block;
+    width: 250px;
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: auto;
+    align-self: auto;
+    order: 0;
+  }
+  .units{
+    width: 30%;
+  }
+}
